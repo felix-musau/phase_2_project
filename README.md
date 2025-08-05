@@ -10,6 +10,10 @@ Each of these platforms offers unique metrics that reflect different aspects of 
 
 The insights derived from this analysis will guide strategic decisions on content creation, marketing approaches, and distribution channels, ultimately positioning our company to compete effectively in a data-driven entertainment market.
 
+For a tableau presentation refer to [link](https://public.tableau.com/app/profile/felix.musau3046/viz/Phase2project_17543812346150/analysis?publish=yes)
+
+For a non technical presentation: [link](https://github.com/felix-musau/phase_2_project/blob/main/presentation.pdf)
+
 ## 💡2. BUSINESS UNDERSTANDING
 
 Before investing in new films, a production company must understand what factors contribute to a movie’s success commercially and critically. This includes not just revenue but also how movies perform across audience platforms
